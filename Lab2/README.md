@@ -23,14 +23,8 @@ cv2.fastNlMeansDenoisingColored()
 <li>searchWindowSize: 21</li>
 </ul>
 
-<div align="center">
-  <img src="https://github.com/MoskvinSA/Image_processing/tree/master/Lab2/output/1.jpg"/>
-</div>
+![Element: вывод 1](https://github.com/MoskvinSA/Image_processing/blob/ver1/Lab2/output/0.jpg)
 
-<div align="center">
-  <img src="https://github.com/MoskvinSA/Image_processing/tree/master/Lab2/output/1.jpg"/>
-</div>
+![Element: вывод 2](https://github.com/MoskvinSA/Image_processing/blob/ver1/Lab2/output/6.jpg)
 
-<div align="center">
-  <img src="https://github.com/MoskvinSA/Image_processing/tree/master/Lab2/output/1.jpg"/>
-</div>
+![Element: вывод 3](https://github.com/MoskvinSA/Image_processing/blob/ver1/Lab2/output/11.jpg)
